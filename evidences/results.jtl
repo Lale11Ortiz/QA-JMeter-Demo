@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1750381854812,540,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-1,text,true,,28864,136,2,2,http://jsonplaceholder.typicode.com/posts,524,0,271
+1750381855085,392,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-2,text,true,,28876,136,1,1,http://jsonplaceholder.typicode.com/posts,383,0,192
+1750381855583,388,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-3,text,true,,28876,136,1,1,http://jsonplaceholder.typicode.com/posts,364,0,168
+1750381856072,416,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-4,text,true,,28864,136,1,1,http://jsonplaceholder.typicode.com/posts,380,0,171
+1750381856577,474,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-5,text,true,,28876,136,1,1,http://jsonplaceholder.typicode.com/posts,466,0,190
+1750381857058,380,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-6,text,true,,28876,136,1,1,http://jsonplaceholder.typicode.com/posts,349,0,177
+1750381858059,438,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-8,text,true,,28876,136,2,2,http://jsonplaceholder.typicode.com/posts,420,0,197
+1750381857562,1025,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-7,text,true,,28876,136,2,2,http://jsonplaceholder.typicode.com/posts,398,0,171
+1750381858559,465,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-9,text,true,,28877,136,1,1,http://jsonplaceholder.typicode.com/posts,448,0,209
+1750381859059,939,GET_Posts_Request,200,OK,GET_Posts_ThreadGroup 1-10,text,true,,28877,136,1,1,http://jsonplaceholder.typicode.com/posts,530,0,215
